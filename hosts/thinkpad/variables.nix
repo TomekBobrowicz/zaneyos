@@ -12,7 +12,7 @@
   clock24h = true;
 
   # Program Options
-  browser = "google-chrome-stable"; # Set Default Browser (google-chrome-stable for google-chrome)
+  browser = "brave"; # Set Default Browser (brave for brave)
   terminal = "kitty"; # Set Default System Terminal
   keyboardLayout = "pl";
   consoleKeyMap = "pl";
