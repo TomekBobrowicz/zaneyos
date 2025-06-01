@@ -8,8 +8,10 @@ in {
     ./bat.nix
     ./btop.nix
     ./cava.nix
+    ./eza.nix
     ./emoji.nix
     ./fastfetch
+    ./fzf.nix
     ./gh.nix
     ./ghostty.nix
     ./git.nix
